@@ -39,7 +39,7 @@
     $ git clone https://github.com/juuliana/LEDButtonArduino.git
     
     # Abrir o arquivo .ino do projeto no Software
-    $ LDR.ino
+    $ LedButton.ino
     
     # Verificar se está rodando
     # Conectar a sua placa Arduino no computador e carregar o código
